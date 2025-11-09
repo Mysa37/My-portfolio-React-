@@ -12,9 +12,9 @@ const About = () => {
         <h2>
           About <span className="highlight">Me</span>
         </h2>
-        <h3>Full Stack Developer</h3>
+        <h3>Data Scientist</h3>
         <p>
-          A passionate and adaptable Developer with a strong foundation in computer science and a deep interest in building systems. I specialize in developing clean, efficient, and scalable applications using React, Flask, SQL, and modern web technologies. I’m driven by curiosity, collaboration, and continuous learning and I thrive in fast-paced environments where I can bridge the gap between innovation and practical implementation. Let’s build something meaningful together.
+          I am a passionate and detail-oriented Data Science graduate (M.S. in Data Science) with a strong foundation in machine learning, statistical modeling, and data visualization. I specialize in transforming complex datasets into actionable insights that drive informed decisions. I enjoy solving real-world problems through data, and I’m eager to contribute my analytical and technical expertise to help organizations harness the full potential of their data.
         </p>
       </div>
     </section>

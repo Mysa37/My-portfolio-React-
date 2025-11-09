@@ -7,28 +7,28 @@ const Skills = () => {
       <h2 className="section-heading">🚀 Skills & Tools</h2>
       <div className="skills-container">
         <div className="skill-card">
-          <h3 className="skill-title">Languages</h3>
-          <p>C, Python, JavaScript</p>
+          <h3 className="skill-title">Programming Languages</h3>
+          <p>C, Python, SQL, R, Bash</p>
         </div>
 
         <div className="skill-card">
-          <h3 className="skill-title">Frameworks & Libraries</h3>
-          <p>React.js, Node.js, OpenCV, Flask, Jest, Next.js</p>
+          <h3 className="skill-title">Machine Learning</h3>
+          <p>Regression, Classification, Clustering, Model Evaluation</p>
         </div>
 
         <div className="skill-card">
-          <h3 className="skill-title">Databases & Cloud</h3>
-          <p>MongoDB, Google Cloud Platform (GCP), Heroku</p>
+          <h3 className="skill-title">Data visualization</h3>
+          <p>Power BI, Tableau, Seaborn, Excel Dashboards</p>
         </div>
 
         <div className="skill-card">
-          <h3 className="skill-title">Middleware & Tools</h3>
-          <p>Express, Django, Redux, Git, GitHub</p>
+          <h3 className="skill-title">Tools</h3>
+          <p>Git, Jupyter Notebook, VS Code, Google Cloud</p>
         </div>
 
         <div className="skill-card">
-          <h3 className="skill-title">Server & Hardware</h3>
-          <p>Linux, Secure Shell (SSH), Hardware Debugging</p>
+          <h3 className="skill-title">Statistical Analysis</h3>
+          <p>Hypothesis Testing, A/B Testing, Probability, Regression Analysis</p>
         </div>
       </div>
     </div>

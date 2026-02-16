@@ -11,7 +11,7 @@ const Home = () => {
         <p>
           Data Engineer at Data Center | Aspiring Data Scientist
         </p>
-        <a className="resume-button" href="/akash_resume (1).pdf" target="_blank" rel="noopener noreferrer">My Resume</a>
+        <a className="resume-button" href="/AKASH_MYSA_RESUME.pdf" target="_blank" rel="noopener noreferrer">My Resume</a>
       </div>
       <div className="home-image">
         <img src={profilePic} alt="Dileep" />

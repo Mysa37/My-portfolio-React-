@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import profilePic from '../assets/profile.jpg';
+import profilePic from '../assets/Akash.jpeg';
 
 const Home = () => {
   return (
@@ -9,7 +9,7 @@ const Home = () => {
         <h1 className="home-heading">Hi, <br />I'm <span className="highlight-name">Akash</span></h1>
         <h2 className="typing-text">Data Science Enthusiast</h2>
         <p>
-          Data Engineer at Data Center | Aspiring Data Scientist
+          Data Analyst at Data Center | Aspiring Data Scientist
         </p>
         <a className="resume-button" href="/AKASH_MYSA_RESUME.pdf" target="_blank" rel="noopener noreferrer">My Resume</a>
       </div>
